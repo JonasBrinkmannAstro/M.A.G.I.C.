@@ -12,10 +12,10 @@ All scripts are set up so that an example run can be conducted simply by executi
 The data cube should be placed in the same folder as the script.
 The provided data cube is publicly available under:
 👉 https://amused.univ-lyon1.fr/project/megaflow/download
-one of the dowloaded data qubes should be: 
+one of the dowloaded data cubes should be: 
 J0014m0028_dr2_zap_wpsf1_qsosub.corrEBV and should be placed in the same folder as the script and the naming kept intact.
 
-Credit: Bouché et al. (2024). If you use this qube, please also acknowledge their work.
+Credit: Bouché et al. (2024). If you use this cube, please also acknowledge their work.
 
 Most adjustable parameters are grouped and clearly marked within each script.
 
